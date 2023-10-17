@@ -1,0 +1,20 @@
+{
+  "passgen": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifypasswordgen-passgen-143800-authRole",
+      "UnauthRoleArn": "arn:aws:iam::111041186627:role/amplify-amplifypasswordgen-passgen-143800-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::111041186627:role/amplify-amplifypasswordgen-passgen-143800-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-amplifypasswordgen-passgen-143800-deployment",
+      "UnauthRoleName": "amplify-amplifypasswordgen-passgen-143800-unauthRole",
+      "StackName": "amplify-amplifypasswordgen-passgen-143800",
+      "StackId": "arn:aws:cloudformation:eu-north-1:111041186627:stack/amplify-amplifypasswordgen-passgen-143800/06e78f90-6cea-11ee-acdb-0ea9eb087c82",
+      "AmplifyAppId": "d9hf2v5i23j7a"
+    },
+    "categories": {
+      "auth": {
+        "amplifypasswordgene77009ab": {}
+      }
+    }
+  }
+}
